@@ -4,7 +4,7 @@ An interactive Rock-Paper-Scissors game built using **HTML, CSS, and JavaScript*
 
 ## 🌐 Live Demo
 
-🚀 **[Play the Game on Vercel]([YOUR_VERCEL_DEPLOYMENT_URL](https://rajeshrock-paper-scissor.vercel.app/))**
+🚀 **[Play the Game on Vercel](https://rajeshrock-paper-scissor.vercel.app/)**
 
 ## ✨ Features
 - 🎮 Play against the computer
@@ -41,7 +41,7 @@ Rock-Paper-Scissors/
 3. Run `index.html` using Live Server.
 
 ## 👨‍💻 Author
-Created as a mini project to practice frontend web development.
+Rajesh Paul
 
 ---
 
